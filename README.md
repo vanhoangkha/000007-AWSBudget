@@ -1,40 +1,24 @@
-# AWSBudget
+# 💰 AWS Budget
 
-AWS Workshop - AWSBudget
+Set up AWS Budgets to monitor and control cloud spending.
 
 ## Overview
 
-This repository contains hands-on lab materials for learning AWS services and best practices.
+This is a hands-on workshop from the **AWS First Cloud Journey** series, designed to help beginners learn AWS services through practical exercises.
+
+## Workshop
+
+📖 **[Start the workshop](https://vanhoangkha.github.io/000007-AWSBudget/)**
 
 ## Prerequisites
 
-- AWS Account
-- Basic understanding of cloud computing
-- AWS CLI installed (optional)
-
-## Getting Started
-
-Follow the instructions in the workshop guide to complete the lab exercises.
-
-## Topics
-
-- AWS
-- Cloud Computing
-- Hands-on Lab
+- An AWS account
+- Basic understanding of cloud computing concepts
 
 ## Author
 
-**Kha Van Hoang**
-- Senior Cloud Security Engineer
-- AWS Community Leader
-- Co-Founder, Viet AWS
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: khavan.work@gmail.com
-- LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- GitHub: [github.com/vanhoangkha](https://github.com/vanhoangkha)
