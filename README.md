@@ -1,4 +1,4 @@
-# 💰 AWS Budget
+# AWS Budget
 
 Set up AWS Budgets to monitor and control cloud spending.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000007-AWSBudget/)**
+**[Start the workshop](https://vanhoangkha.github.io/000007-AWSBudget/)**
 
 ## Prerequisites
 
